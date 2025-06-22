@@ -1,7 +1,7 @@
 <!--START_SECTION:Languages-->
 
 ```rust
-From: 12 February 2025 - To: 19 June 2025
+From: 12 February 2025 - To: 20 June 2025
 
 C#                                >>>>>>-------------------   23.15 %
 Python                            >>>>>--------------------   21.35 %
