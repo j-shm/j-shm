@@ -3,7 +3,7 @@
 <!--START_SECTION:Languages-->
 
 ```rust
-From: 12 February 2025 - To: 11 January 2026
+From: 12 February 2025 - To: 12 January 2026
 
 Swift                                              >>>>>--------------------   21.90 %
 C#                                                 >>>>>--------------------   20.41 %
