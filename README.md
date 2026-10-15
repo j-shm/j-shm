@@ -3,7 +3,7 @@
 <!--START_SECTION:Languages-->
 
 ```rust
-From: 12 February 2025 - To: 12 October 2026
+From: 12 February 2025 - To: 13 October 2026
 
 Swift                                                    >>>>>--------------------   20.84 %
 Python                                                   >>>>---------------------   16.12 %
